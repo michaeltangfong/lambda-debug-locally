@@ -1,0 +1,20 @@
+{
+  "name": "@michaeltangfong/lambda-local-test-run",
+  "version": "1.0.0",
+  "description": "Main function to run lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+  }
+}
