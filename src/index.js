@@ -5,7 +5,7 @@ console.log('Loading function...');
 var AWS = require('aws-sdk');
 var dynamodb = new AWS.DynamoDB();
 
-exports.handler = function(event, context) {
+exports.handler = (event, context) => {
     var getItemParams = {
         "TableName": "Books",
         "Key": {
